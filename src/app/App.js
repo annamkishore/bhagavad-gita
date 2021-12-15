@@ -1,15 +1,15 @@
-import logo from './logo.svg';
+import stats from "./stats.png";
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        Hello from Kishore <br/>
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
-  );
+    let slokasYaml = "https://raw.githubusercontent.com/annamkishore/annamkishore.github.io/79a994859fb6dce438b079c56bebb099b1f02581/bhagavad-gita/slokas.yaml";
+    return (
+        <div className="App">
+            <h2>భగవద్గీత</h2>
+            <h2> Chapter wise count <a href={slokasYaml}>Slokas link</a></h2>
+            <img src={stats}/> <br/>
+        </div>
+    );
 }
 
 export default App;
