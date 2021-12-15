@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bhagavad-gita/static/css/main.023b418d.css",
+    "main.js": "/bhagavad-gita/static/js/main.8f660f4e.js",
+    "static/media/logo.svg": "/bhagavad-gita/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bhagavad-gita/index.html",
+    "main.023b418d.css.map": "/bhagavad-gita/static/css/main.023b418d.css.map",
+    "main.8f660f4e.js.map": "/bhagavad-gita/static/js/main.8f660f4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023b418d.css",
+    "static/js/main.8f660f4e.js"
+  ]
+}
