@@ -34,6 +34,90 @@ var ThemeRoutes = [
         name: '4. జ్ఞానయోగః',
         icon: 'mdi mdi-toggle-switch',
         component: Book
+    },
+    {
+        path: '/5',
+        name: '5. సన్న్యాసయోగః',
+        // icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/6',
+        name: '6. ధ్యానయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/7',
+        name: '7. జ్ఞానవిజ్ఞానయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/8',
+        name: '8. అక్షరబ్రహ్మయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/9',
+        name: '9. రాజవిద్యా రాజగుహ్యయోగః',
+        // icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/10',
+        name: '10. విభూతియోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/11',
+        name: '11. విశ్వరూపదర్శనయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/12',
+        name: '12. భక్తియోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/13',
+        name: '13. క్షేత్రక్షేత్రజ్ఞవిభాగయోగః',
+        // icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/14',
+        name: '14. గుణత్రయవిభాగయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/15',
+        name: '15. పురుషోత్తమయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/16',
+        name: '16. దైవాసురసంపద్విభాగయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/17',
+        name: '17. శ్రద్ధాత్రయవిభాగయోగః',
+        // icon: 'mdi mdi-toggle-switch',
+        component: Book
+    },
+    {
+        path: '/18',
+        name: '18. మోక్షసన్న్యాసయోగః',
+        icon: 'mdi mdi-toggle-switch',
+        component: Book
     }
 ];
 
