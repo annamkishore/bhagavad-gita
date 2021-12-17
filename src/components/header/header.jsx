@@ -35,6 +35,9 @@ const Header = () => {
         <header className="topbar navbarbg" data-navbarbg="skin1">
             <Navbar className="top-navbar" dark expand="md">
                 <div className="navbar-header" id="logobg" data-logobg="skin6">
+                    <NavbarBrand href="#/1">
+                        <b><span style={{background: "white", color: "black", fontSize: "2rem", width: "100%"}}>భగవద్గీత</span></b>
+                    </NavbarBrand>
                     {/*--------------------------------------------------------------------------------*/}
                     {/* Logos Or Icon will be goes here for Light Layout && Dark Layout                */}
                     {/*--------------------------------------------------------------------------------*/}
