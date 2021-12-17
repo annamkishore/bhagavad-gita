@@ -2,13 +2,13 @@ import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 import yaml from 'yaml';
 
-import {Chapter} from './chapter';
+import {Chapter} from './Chapter';
 
-import './App.css';
-import stats from "./stats.png";
-import slokasFile from "./slokas.yaml";
+import '../containers/App.css';
+import stats from "../images/stats.png";
+import slokasFile from "../resources/slokas.yaml";
 
-function App() {
+function Book() {
     const [slokas, setSlokas] = useState({});
 
     let slokasJson
@@ -23,11 +23,11 @@ function App() {
         <div className="App">
             <span style={{fontSize: 50}}>భగవద్గీత</span> <br/>
             <span> Chapter wise count </span><br/>
-            <img src={stats}/> <br/>
+            <img src={stats} alt={"Bhagavad Gita"}/> <br/>
 
             <Chapter slokas={slokas && slokas[1]}/>
         </div>
     );
 }
 
-export default App;
+export default Book;
