@@ -2,28 +2,30 @@ import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 import yaml from 'yaml';
 
+import {Chapter} from './chapter';
+
 import './App.css';
 import stats from "./stats.png";
 import slokasFile from "./slokas.yaml";
 
 function App() {
-    const [slokas, setSlokas] = useState(0);
+    const [slokas, setSlokas] = useState({});
 
+    let slokasJson
     useEffect(async () => {
-        const result = await axios(slokasFile);
-        setSlokas(result.data);
-        window.slokas = result.data
-        window.yaml = yaml
-
-        window.slokasJson = yaml.parse(slokas)
+        const response = await axios(slokasFile);
+        slokasJson = yaml.parse(response.data)
+        window.slokasJson = slokasJson
+        setSlokas(slokasJson);
     });
 
     return (
         <div className="App">
-            <h2>భగవద్గీత</h2>
-            <h2> Chapter wise count </h2>
+            <span style={{fontSize: 50}}>భగవద్గీత</span> <br/>
+            <span> Chapter wise count </span><br/>
             <img src={stats}/> <br/>
-            <div>{slokas}</div>
+
+            <Chapter slokas={slokas && slokas[1]}/>
         </div>
     );
 }

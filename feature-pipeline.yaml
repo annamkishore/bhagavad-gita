@@ -1,0 +1,13 @@
+features:
+  - chapter navigation (1 to 18, stats)
+  - audio
+UI:
+  - Chapter to have:
+      - audio control (play/pause, loop, range(1, last))
+      - sloka list
+  - Sloka to have:
+      - sloka
+      - word meaning
+      - sloka meaning
+      - audio control (play/pause, loop)
+
