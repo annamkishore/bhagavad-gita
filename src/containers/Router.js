@@ -7,13 +7,13 @@ import Stats from "../components/Stats";
 export default function BookRouter() {
     return <BrowserRouter>
         <Routes>
-            <Route path="/" element={<TOC/>} />
-            <Route path="/stats" element={<Stats/>} />
+            <Route path="/bhagavad-gita" element={<TOC/>} />
+            <Route path="/bhagavad-gita/stats" element={<Stats/>} />
             {
                 Array(18).fill(1)
                     .map((item, i) => i + 1)
                     .map(item =>
-                        <Route key={item} path={`/${item}`} element={<Book chapter={item}/>}/>
+                        <Route key={item} path={`/bhagavad-gita/${item}`} element={<Book chapter={item}/>}/>
                     )
             }
         </Routes>

@@ -3,9 +3,9 @@ import {Container, Button, Link} from 'react-floating-action-button'
 
 export default function FloatingMenu() {
     return <Container>
-        <Link href="/"
+        <Link href="/bhagavad-gita"
               icon="far fa-sticky-note"
-              styles={{backgroundColor: "orange"}}
+              styles={{backgroundColor: "grey"}}
         />
     </Container>
 }
