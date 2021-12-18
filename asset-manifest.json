@@ -1,35 +1,15 @@
 {
   "files": {
-    "main.css": "/bhagavad-gita/static/css/main.f7aa5998.chunk.css",
-    "main.js": "/bhagavad-gita/static/js/main.f8c51fd7.chunk.js",
-    "main.js.map": "/bhagavad-gita/static/js/main.f8c51fd7.chunk.js.map",
-    "runtime-main.js": "/bhagavad-gita/static/js/runtime-main.fe393381.js",
-    "runtime-main.js.map": "/bhagavad-gita/static/js/runtime-main.fe393381.js.map",
-    "static/js/2.e1c013c9.chunk.js": "/bhagavad-gita/static/js/2.e1c013c9.chunk.js",
-    "static/js/2.e1c013c9.chunk.js.map": "/bhagavad-gita/static/js/2.e1c013c9.chunk.js.map",
+    "main.css": "/bhagavad-gita/static/css/main.4d66796f.css",
+    "main.js": "/bhagavad-gita/static/js/main.2e6a30c1.js",
+    "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.682a291bdd35fd781b86.yaml",
+    "static/media/stats.png": "/bhagavad-gita/static/media/stats.783e6882bc6dcd4e8b48.png",
     "index.html": "/bhagavad-gita/index.html",
-    "precache-manifest.2f906a24b4218f331b5fc42586f29cf8.js": "/bhagavad-gita/precache-manifest.2f906a24b4218f331b5fc42586f29cf8.js",
-    "service-worker.js": "/bhagavad-gita/service-worker.js",
-    "static/css/main.f7aa5998.chunk.css.map": "/bhagavad-gita/static/css/main.f7aa5998.chunk.css.map",
-    "static/js/2.e1c013c9.chunk.js.LICENSE.txt": "/bhagavad-gita/static/js/2.e1c013c9.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/bhagavad-gita/static/media/1.f33d9178.jpg",
-    "static/media/2.jpg": "/bhagavad-gita/static/media/2.92fb17ec.jpg",
-    "static/media/3.jpg": "/bhagavad-gita/static/media/3.78962450.jpg",
-    "static/media/4.jpg": "/bhagavad-gita/static/media/4.7eef6399.jpg",
-    "static/media/style.css": "/bhagavad-gita/static/media/weathericons-regular-webfont.ed0943f2.svg",
-    "static/media/img1.jpg": "/bhagavad-gita/static/media/img1.555ab3a8.jpg",
-    "static/media/img2.jpg": "/bhagavad-gita/static/media/img2.b97c99cd.jpg",
-    "static/media/img3.jpg": "/bhagavad-gita/static/media/img3.798035df.jpg",
-    "static/media/img4.jpg": "/bhagavad-gita/static/media/img4.e77a5906.jpg",
-    "static/media/img5.jpg": "/bhagavad-gita/static/media/img5.73a034c4.jpg",
-    "static/media/img6.jpg": "/bhagavad-gita/static/media/img6.13ac8444.jpg",
-    "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.18e551e9.yaml",
-    "static/media/stats.png": "/bhagavad-gita/static/media/stats.21a14988.png"
+    "main.4d66796f.css.map": "/bhagavad-gita/static/css/main.4d66796f.css.map",
+    "main.2e6a30c1.js.map": "/bhagavad-gita/static/js/main.2e6a30c1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe393381.js",
-    "static/js/2.e1c013c9.chunk.js",
-    "static/css/main.f7aa5998.chunk.css",
-    "static/js/main.f8c51fd7.chunk.js"
+    "static/css/main.4d66796f.css",
+    "static/js/main.2e6a30c1.js"
   ]
 }
