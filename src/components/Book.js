@@ -4,6 +4,7 @@ import yaml from 'yaml';
 
 import {Chapter} from './Chapter';
 import slokasFile from "../resources/slokas.yaml";
+import FloatingMenu from "./FloatingMenu";
 
 function Book(props) {
     let chapterNo = props.chapter;
@@ -29,6 +30,7 @@ function Book(props) {
             <Chapter name={book && book.title[chapterNo]}
                      slokas={book && book.slokas[chapterNo]}
             />
+            <FloatingMenu />
         </div>
     );
 }
