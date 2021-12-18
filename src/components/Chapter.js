@@ -5,28 +5,29 @@ export function Chapter(props) {
         return <></>
     }
 
-    let chap = props.slokas
-    let chapName = chap.name
-    let slokas = Object.values(chap)
+    let chapName = props.name
+    let chapSlokas = props.slokas
+    let slokas = Object.values(chapSlokas)
 
     return <>
-        <table border={1} align={"left"} style={{textAlign: "left", fontSize: 20, lineHeight: 1.8}}>
+        <table border={1} cellSpacing={0} cellPadding={0} align={"center"}
+               style={{textAlign: "left", fontSize: 20, lineHeight: 1.8}}>
             <thead>
             <tr>
-                <th colSpan={2} style={{textAlign: "center"}}>
-                    <h2 style={{margin: 0}}>{chapName}</h2>
-                </th>
+                <td colSpan={2} style={{textAlign: "center"}}>
+                    <span style={{fontSize: "1.5rem"}}>{chapName}</span>
+                </td>
             </tr>
             </thead>
             <tbody>
             {slokas.map((sloka, i) =>
                 <tr key={i}>
                     {/*   index   */}
-                    <td style={{padding: 10, textAlign: "center"}}>
+                    <td style={{padding: 0, textAlign: "center", borderRight: 0, paddingLeft: "0.3rem"}}>
                         {i + 1}
                     </td>
                     {/*   sloka   */}
-                    <td style={{paddingLeft: "3rem"}}>
+                    <td style={{paddingLeft: "0.5rem", borderLeft: 0}}>
                         {/*{sloka}*/}
                         {sloka.split("\\n").map((line, temp) =>
                             <span key={temp}>
