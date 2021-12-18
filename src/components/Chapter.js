@@ -14,7 +14,7 @@ export function Chapter(props) {
                style={{textAlign: "left", fontSize: 20, lineHeight: 1.8}}>
             <thead>
             <tr>
-                <td colSpan={2} style={{textAlign: "center", backgroundColor: "orange"}}>
+                <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
                 </td>
             </tr>
