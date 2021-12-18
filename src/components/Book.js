@@ -3,16 +3,13 @@ import axios from 'axios';
 import yaml from 'yaml';
 
 import {Chapter} from './Chapter';
-
-import stats from "../resources/stats.png";
 import slokasFile from "../resources/slokas.yaml";
 
 function Book(props) {
-    // let chapterNo = props.match.path.substring(1);
-    let chapterNo = 1;
+    let chapterNo = props.chapter;
+    chapterNo = chapterNo || 1;
 
     const [book, setBook] = useState(null);
-
     useEffect(() => {
         async function fetchData() {
             const response = await axios(slokasFile);
@@ -21,7 +18,7 @@ function Book(props) {
         }
 
         fetchData();
-    }, {});
+    }, []);
 
     return (
         <div className="App">
