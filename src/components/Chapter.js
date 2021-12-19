@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react';
+import audio1 from "../resources/audio/Chapter-01-05.mp3";
 
 export function Chapter(props) {
     if (!props.slokas) {
@@ -16,6 +17,10 @@ export function Chapter(props) {
             <tr>
                 <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
+                    <audio id="song" preload="auto" /*controls*/>
+                        <source src={audio1 + "#t=595"} type="audio/mp3"/>
+                        Your browser does not support the audio element.
+                    </audio>
                 </td>
             </tr>
             </thead>
