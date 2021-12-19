@@ -28,6 +28,7 @@ function Book(props) {
             {/*<img src={stats} alt={"Bhagavad Gita"}/> <br/>*/}
 
             <Chapter name={book && book.title[chapterNo]}
+                     number={chapterNo}
                      slokas={book && book.slokas[chapterNo]}
             />
             <FloatingMenu />

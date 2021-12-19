@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import audio1 from "../resources/audio/Chapter-01-05.mp3";
-import {fetchAudioTime} from "../utils/Util";
+import * as util from "../utils/Util";
 
 export function Chapter(props) {
     if (!props.slokas) {
@@ -8,21 +8,23 @@ export function Chapter(props) {
     }
 
     let timeData;
-    fetchAudioTime().then(data => {
+    util.fetchAudioTime().then(data => {
         timeData = data;
     });
 
     let chapName = props.name
+    let chapNum = props.number
     let chapSlokas = props.slokas
     let slokas = Object.values(chapSlokas)
 
     let isPlaying = false;
     let currentSloka;
-    function playPause(num) {
-        console.log(timeData.audio[1][num])
+    function playPause(slokaNum) {
+        let startTime = timeData.audio[chapNum][slokaNum];
+        console.log(startTime)
 
-        if(!currentSloka || currentSloka !== num) {
-            currentSloka = num;
+        if(!currentSloka || currentSloka !== slokaNum) {
+            currentSloka = slokaNum;
 
             let url = document.querySelector("#songSource").src;
             let songWindow = "#t=466,486";
@@ -31,7 +33,7 @@ export function Chapter(props) {
             document.querySelector("#songSource").src = url;
             console.log(currentSloka, songWindow)
             song.pause();
-            song.currentTime = parseInt(timeData.audio[1][num])
+            song.currentTime = util.toSeconds(startTime)
             song.play();
             isPlaying = true;
             return;
@@ -53,7 +55,7 @@ export function Chapter(props) {
             <tr>
                 <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
-                    <audio id="song" preload="auto" /*controls*/>
+                    <audio id="song" preload="auto" controls>
                         <source id="songSource" src={audio1 + "#t=466"} type="audio/mp3"/>
                         Your browser does not support the audio element.
                     </audio>
