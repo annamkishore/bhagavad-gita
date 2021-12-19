@@ -74,7 +74,7 @@ export function Chapter(props) {
             <tr>
                 <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
-                    <audio id="song" preload="auto" controls>
+                    <audio id="song" preload="auto">
                         <source id="songSource" src={audioUrl(chapNum) + "#t=466"} type="audio/mp3"/>
                         Your browser does not support the audio element.
                     </audio>
