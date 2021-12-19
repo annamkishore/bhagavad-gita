@@ -1,6 +1,9 @@
 import React, {useState, useEffect} from 'react';
-import audio1 from "../resources/audio/Chapter-01-05.mp3";
 import * as util from "../utils/Util";
+
+import audio1to5 from "../resources/audio/Chapter-01-05.mp3";
+import audio6to12 from "../resources/audio/Chapter-06-12.mp3";
+import audio13to18 from "../resources/audio/Chapter-13-18.mp3";
 
 export function Chapter(props) {
     if (!props.slokas) {
@@ -56,7 +59,7 @@ export function Chapter(props) {
                 <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
                     <audio id="song" preload="auto" controls>
-                        <source id="songSource" src={audio1 + "#t=466"} type="audio/mp3"/>
+                        <source id="songSource" src={audio1to5 + "#t=466"} type="audio/mp3"/>
                         Your browser does not support the audio element.
                     </audio>
                 </td>
