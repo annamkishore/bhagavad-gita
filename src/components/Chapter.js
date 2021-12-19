@@ -5,6 +5,22 @@ import audio1to5 from "../resources/audio/Chapter-01-05.mp3";
 import audio6to12 from "../resources/audio/Chapter-06-12.mp3";
 import audio13to18 from "../resources/audio/Chapter-13-18.mp3";
 
+let audioUrl = chapter => {
+    let audioFile;
+    switch(chapter) {
+        case 1: case 2: case 3: case 4: case 5:
+            audioFile = audio1to5;
+            break;
+        case 6: case 7: case 8: case 9: case 10: case 11: case 12:
+            audioFile = audio6to12;
+            break;
+        case 13: case 14: case 15: case 16: case 17: case 18:
+            audioFile = audio13to18;
+            break;
+    }
+    return audioFile;
+}
+
 export function Chapter(props) {
     if (!props.slokas) {
         return <></>
@@ -59,7 +75,7 @@ export function Chapter(props) {
                 <td colSpan={2} style={{textAlign: "center", backgroundColor: "grey"}}>
                     <span style={{fontSize: "1.5rem"}}>{chapName}</span>
                     <audio id="song" preload="auto" controls>
-                        <source id="songSource" src={audio1to5 + "#t=466"} type="audio/mp3"/>
+                        <source id="songSource" src={audioUrl(chapNum) + "#t=466"} type="audio/mp3"/>
                         Your browser does not support the audio element.
                     </audio>
                 </td>
