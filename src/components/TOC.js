@@ -28,6 +28,14 @@ export function TOC() {
                     <td><Link to={`/bhagavad-gita/${i + 1}`}>{i + 1 + ". " + title}</Link></td>
                 </tr>
             )}
+            <tr>
+                <td>
+                    <span style={{fontSize: "0.9rem"}}>
+                        created this webapp on 19th Dec 2021, <br/>
+                        in the memory of my daughter Advaita's 6th Birthday
+                    </span>
+                </td>
+            </tr>
             </tbody>
         </table>
         }
