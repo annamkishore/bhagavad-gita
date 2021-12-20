@@ -6,7 +6,7 @@ import Stats from "../components/Stats";
 import {Layout} from "./Layout";
 
 export default function BookRouter() {
-    return <BrowserRouter>
+    return <BrowserRouter basename={process.env.REACT_APP_BASE_NAME}>
         <Routes>
             <Route path="/" element={<Layout/>}>
                 <Route index element={<TOC/>}/>
