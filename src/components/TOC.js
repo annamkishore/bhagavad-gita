@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
 import {Link} from "react-router-dom";
 import * as util from "../utils/Util";
+import FloatingMenu from "./FloatingMenu";
 
 export function TOC() {
 
@@ -21,11 +22,15 @@ export function TOC() {
                 <td align={"center"}><span style={{fontSize: "2rem"}}>భగవద్గీత</span> <br/></td>
             </tr>
             <tr>
-                <td><Link to={`/bhagavad-gita/stats`}>Statistics</Link></td>
+                <td>
+                    <Link to={`/bhagavad-gita/stats`} style={{textDecoration: 'none'}}>
+                        Statistics
+                    </Link>
+                </td>
             </tr>
             {titles.map((title, i) =>
                 <tr key={i}>
-                    <td><Link to={`/bhagavad-gita/${i + 1}`}>{i + 1 + ". " + title}</Link></td>
+                    <td><Link to={`/bhagavad-gita/${i + 1}`} style={{textDecoration: 'none'}}>{i + 1 + ". " + title}</Link></td>
                 </tr>
             )}
             <tr>
