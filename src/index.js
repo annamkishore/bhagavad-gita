@@ -2,7 +2,7 @@ import React from 'react';
 import {render} from 'react-dom';
 import BookRouter from "./containers/Router";
 
-import './containers/App.css';
+import './assets/styles.css';
 
 render(
     <React.StrictMode>
