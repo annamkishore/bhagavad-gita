@@ -3,7 +3,7 @@ import slokasFile from "../resources/slokas.yaml";
 import audioTimeFile from "../resources/audio/audio-time.yaml";
 import yaml from "yaml";
 
-export async function fetchData() {
+export async function fetchSlokas() {
     const response = await axios(slokasFile);
     let responseObj = yaml.parse(response.data)
     return responseObj;
@@ -37,12 +37,12 @@ function toTime(seconds) {
 
 // example for 6th chapter: getStartTime(1, "00:23", 47, "10:06")
 // output, for 6th chapter, use in the audio-time.yaml
-function getStartTime(start, startTime, end, endTime) {
+function getStartTime(startSlokaNum, startTime, endSlokaNum, endTime) {
     let startSec = toSeconds(startTime)
     let endSec = toSeconds(endTime)
     let diffSec = endSec - startSec
 
-    let diff = end - start
+    let diff = endSlokaNum - startSlokaNum
     let avgSec = diffSec / diff
     let arrCount = diff - 1
 

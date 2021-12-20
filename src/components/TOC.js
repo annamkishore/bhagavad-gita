@@ -1,14 +1,14 @@
-import {fetchData} from "../utils/Util";
 import React, {useEffect, useState} from "react";
 import {Link} from "react-router-dom";
+import * as util from "../utils/Util";
 
 export function TOC() {
 
     const [titles, setTitles] = useState(null);
     useEffect(() => {
         (async function f1() {
-            let data = await fetchData();
-            setTitles(Object.values(data.title));
+            let slokas = await util.fetchSlokas();
+            setTitles(Object.values(slokas.title));
         })();
     }, []);
 
