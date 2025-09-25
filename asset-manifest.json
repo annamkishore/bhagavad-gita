@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bhagavad-gita/static/css/main.31bcc119.css",
-    "main.js": "/bhagavad-gita/static/js/main.48570ed8.js",
-    "static/js/641.18ddf8d3.chunk.js": "/bhagavad-gita/static/js/641.18ddf8d3.chunk.js",
+    "main.css": "/bhagavad-gita/static/css/main.45e06af6.css",
+    "main.js": "/bhagavad-gita/static/js/main.539c0774.js",
+    "static/js/551.694544c2.chunk.js": "/bhagavad-gita/static/js/551.694544c2.chunk.js",
     "static/media/chapter-01-05.mp3": "/bhagavad-gita/static/media/chapter-01-05.97a4de0143c32a9e11cc.mp3",
     "static/media/chapter-06-12.mp3": "/bhagavad-gita/static/media/chapter-06-12.338e437844ae2017dda2.mp3",
     "static/media/chapter-13-18.mp3": "/bhagavad-gita/static/media/chapter-13-18.2c80d0dd49b7a2cf5dd0.mp3",
-    "static/media/slokas-meaning.yaml": "/bhagavad-gita/static/media/slokas-meaning.f98cf861dd5ec722f3c9.yaml",
+    "static/media/slokas-meaning.yaml": "/bhagavad-gita/static/media/slokas-meaning.d8aea33233454d114dc5.yaml",
     "static/media/sky.png": "/bhagavad-gita/static/media/sky.29f23b4e990e8f1286cf.png",
     "static/media/slokabg.png": "/bhagavad-gita/static/media/slokabg.b9dc5866fa1738038580.png",
-    "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.b1dd8a55645f7bd94a19.yaml",
+    "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.7134443a73607a3f6743.yaml",
     "static/media/stats.png": "/bhagavad-gita/static/media/stats.783e6882bc6dcd4e8b48.png",
     "static/media/audio-time.yaml": "/bhagavad-gita/static/media/audio-time.889c74cfcd8859ebe042.yaml",
     "index.html": "/bhagavad-gita/index.html",
-    "main.31bcc119.css.map": "/bhagavad-gita/static/css/main.31bcc119.css.map",
-    "main.48570ed8.js.map": "/bhagavad-gita/static/js/main.48570ed8.js.map",
-    "641.18ddf8d3.chunk.js.map": "/bhagavad-gita/static/js/641.18ddf8d3.chunk.js.map"
+    "main.45e06af6.css.map": "/bhagavad-gita/static/css/main.45e06af6.css.map",
+    "main.539c0774.js.map": "/bhagavad-gita/static/js/main.539c0774.js.map",
+    "551.694544c2.chunk.js.map": "/bhagavad-gita/static/js/551.694544c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31bcc119.css",
-    "static/js/main.48570ed8.js"
+    "static/css/main.45e06af6.css",
+    "static/js/main.539c0774.js"
   ]
 }
