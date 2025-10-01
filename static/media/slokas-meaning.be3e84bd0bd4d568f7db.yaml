@@ -1,0 +1,278 @@
+slokam:
+  s0: #template
+    namalu: #not used in program
+    namam-meanings:
+      1:
+        namam:
+        meaning:
+      2:
+        namam:
+        meaning:
+  s1: # 1-9
+    namalu:
+      విశ్వం, విష్నుః, వషట్కారః, భూతభవ్యభవత్ప్రభుః |\n
+      భూతకృద్, భూతభృద్, భావః, భూతాత్మా, భూతభావనః || ౧ ||
+    namam-meanings:
+      - namam: విశ్వం
+        number: 1
+        meaning: # can have html to highlight
+          సర్వపదార్థాలలో [అన్నింటిలో] ప్రవేశించినవాడు [వుoటాడు] = పరమాత్మ
+          అంతటా ప్రవేశించి లోపల, బయట అంతా వ్యాపించి పరిపూర్ణుడైన పరమాత్మ
+          [నారాయణుడు] ఉన్నాడు <br />
+          పరిపూర్ణుడు → ఏలోపము లేనివాడు, ఐశ్వర్యవంతుడై 6 గుణలు వృండి స్వరూపం,
+          రూపం [దివ్వమంగళరూంపం], గుణాలు ఉన్న కౌశల్యం [భేదంలేని వాడు]
+          బ్రహ్మ తండ్రి, యశోదకి బిడ్డ, ఈ విష్ణువు
+      - namam: విష్నుః
+        number: 2
+        meaning:
+      - namam: వషట్కారః
+        number: 3
+        meaning:
+      - namam: భూతభవ్యభవత్ప్రభుః
+        number: 4
+        meaning:
+      - namam: # for next line
+      - namam: భూతకృద్
+        number: 5
+        meaning:
+      - namam: భూతభృద్
+        number: 6
+        meaning:
+      - namam: భావః
+        number: 7
+        meaning:
+      - namam: భూతాత్మా
+        number: 8
+        meaning:
+      - namam: భూతభావనః
+        number: 9
+        meaning:
+  s2: # 10-17
+    namalu:
+      పూతాత్మా, పరమాత్మ, ముక్తానాం పరమాగతిః |\n
+      అవ్యయః, పురుషః, స్సాక్షీ, క్షేత్రజ్ఞః, అక్షర || ౨ ||
+    namam-meanings:
+      - namam: పూతాత్మా
+        number: 10
+        meaning: పూతాత్మా meaning
+      - namam: పరమాత్మ
+        number: 11
+        meaning: పరమాత్మ meaning
+      - namam: ముక్తానాం పరమాగతిః
+        number: 12
+        meaning: ముక్తానాం పరమాగతిః meaning
+      - namam: # for next line
+      - namam: అవ్యయః
+        number: 13
+        meaning:
+      - namam: పురుషః
+        number: 14
+        meaning:
+      - namam: స్సాక్షీ
+        number: 15
+        meaning:
+      - namam: క్షేత్రజ్ఞః
+        number: 16
+        meaning:
+      - namam: అక్షర
+        number: 17
+        meaning:
+  s3: # 18-24
+    namalu:
+      యోగః, యోగవిదాం నేతా, ప్రధానపురుషేశ్వరః |\n
+      నారసింహవపుః, శ్రీమాన్, కేశవః, పురుషోత్తమః || ౩ ||
+    namam-meanings:
+      - namam: యోగః
+        number: 18
+        meaning:
+      - namam: యోగవిదాం నేతా
+        number: 19
+        meaning:
+      - namam: ప్రధానపురుషేశ్వరః
+        number: 20
+        meaning:
+      - namam:
+      - namam: నారసింహవపుః
+        number: 21
+        meaning:
+      - namam: శ్రీమాన్
+        number: 22
+        meaning:
+      - namam: కేశవః
+        number: 23
+        meaning:
+      - namam: పురుషోత్తమః
+        number: 24
+        meaning:
+  s4: # 25-36
+    namalu:
+      సర్వః, శ్శర్వః, శివః, స్థాణుః, భూతాదిః, నిధిరవ్యయః |\n
+      సంభవః, భావనః, భర్తా, ప్రభవః, ప్రభుః, ఈశ్వరః || ౪ ||
+    namam-meanings:
+      - namam: సర్వః
+        number: 25
+        meaning:
+      - namam: శ్శర్వః
+        number:
+        meaning:
+      - namam: శివః
+        number:
+        meaning:
+      - namam: స్థాణుః
+        number:
+        meaning:
+      - namam: భూతాదిః
+        number:
+        meaning:
+      - namam: నిధిరవ్యయః
+        number:
+        meaning:
+      - namam:
+      - namam: సంభవః
+        number:
+        meaning:
+      - namam: భావనః
+        number:
+        meaning:
+      - namam: భర్తా
+        number:
+        meaning:
+      - namam: ప్రభవః
+        number:
+        meaning:
+      - namam: ప్రభుః
+        number:
+        meaning:
+      - namam: ఈశ్వరః
+        number:
+        meaning:
+  s5: # 37-
+    namalu:
+      స్వయంభూశ్శంభురాదిత్యః పుష్కరాక్షో మహాస్వనః |\n
+      అనాదినిధనో ధాతా విధాతా ధాతురుత్తమః || ౫ ||
+    namam-meanings:
+      - namam:
+        number: 18
+        meaning:
+  s6:
+    namalu:
+      అప్రమేయో హృషీకేశః పద్మనాభోఽమరప్రభుః |\n
+      విశ్వకర్మా మనుస్త్వష్టా స్థవిష్ఠః స్థవిరో ధ్రువః || ౬ ||
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s7:
+    namalu:
+      అగ్రాహ్యశ్శాశ్వతః కృష్ణో లోహితాక్షః ప్రతర్దనః |\n
+      ప్రభూతస్త్రికకుబ్ధామ పవిత్రం మంగళం పరమ్ || ౭ ||
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s8:
+    namalu:
+      ఈశానః ప్రాణదః ప్రాణో జ్యేష్ఠః శ్రేష్ఠః ప్రజాపతిః |\n
+      హిరణ్యగర్భో భూగర్భో మాధవో మధుసూదనః || ౮ ||
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s9:
+    namalu:
+      ఈశ్వరో విక్రమీ ధన్వీ మేధావీ విక్రమః క్రమః |\n
+      అనుత్తమో దురాధర్షః కృతజ్ఞః కృతిరాత్మవాన్ || ౯ ||
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s10:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s11:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s12:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s13:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s14:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s15:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s16:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s17:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s18:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s19:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s20:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s21:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s22:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s23:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
+  s24:
+    namalu:
+    namam-meanings: # 10-17
+      - namam:
+        number: 18
+        meaning:
