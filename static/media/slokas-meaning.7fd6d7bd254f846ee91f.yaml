@@ -1701,47 +1701,345 @@ slokam:
       - namam: ధనేశ్వరః
         number: 476
         meaning:
-  s51:
+  s51: #476-486
     namalu:
-      ధర్మగుబ్ధర్మకృద్ధర్మీ సదసత్క్షరమక్షరమ్ | \n
-      అవిజ్ఞాతా సహస్రాం‍శుర్విధాతా కృతలక్షణః || ౫౧ ||\n
+      ధర్మగుబ్, ధర్మకృద్, ధర్మీ, సత్, అసత్, క్షర, అక్షరమ్  | \n
+      అవిజ్ఞాతా, సహస్రాం‍శుః, విధాతా, కృతలక్షణః || ౫౧ ||\n
       [**సదక్షరమసత్క్షరమ్**]
-  s52:
+    namam-meanings:
+      - namam: ధర్మగుబ్
+        number: 477
+        meaning:
+      - namam: ధర్మకృద్
+        number: 478
+        meaning:
+      - namam: ధర్మీ
+        number: 479
+        meaning:
+      - namam: సత్
+        number: 480
+        meaning:
+      - namam: అసత్
+        number: 481
+        meaning:
+      - namam: క్షర
+        number: 482
+        meaning:
+      - namam: అక్షరమ్
+        number: 483
+        meaning:
+      - namam: అవిజ్ఞాతా
+        number: 484
+        meaning:
+      - namam: సహస్రాం‍శుః
+        number: 485
+        meaning:
+      - namam: విధాతా
+        number: 486
+        meaning:
+      - namam: కృతలక్షణః
+        number: 487
+        meaning:
+  s52: #487-495
     namalu:
-      గభస్తినేమిస్సత్త్వస్థస్సింహో భూతమహేశ్వరః |\n
-      ఆదిదేవో మహాదేవో దేవేశో దేవభృద్గురుః || ౫౨ ||
-  s53:
+      గభస్తినేమిః, స్సత్త్వస్థః, సింహః, భూతమహేశ్వరః |\n
+      ఆదిదేవః, మహాదేవః, దేవేశః, దేవభృత్, గురుః || ౫౨ ||
+    namam-meanings:
+      - namam: గభస్తినేమిః
+        number: 488
+        meaning:
+      - namam: స్సత్త్వస్థః
+        number: 489
+        meaning:
+      - namam: సింహః
+        number: 490
+        meaning:
+      - namam: భూతమహేశ్వరః
+        number: 491
+        meaning:
+      - namam: ఆదిదేవః
+        number: 492
+        meaning:
+      - namam: మహాదేవః
+        number: 493
+        meaning:
+      - namam: దేవేశః
+        number: 494
+        meaning:
+      - namam: దేవభృత్
+        number: 495
+        meaning:
+      - namam: గురుః
+        number: 496
+        meaning:
+  s53: #496-504
     namalu:
-      ఉత్తరో గోపతిర్గోప్తా జ్ఞానగమ్యః పురాతనః |\n
-      శరీరభూతభృద్భోక్తా కపీన్ద్రో భూరిదక్షిణః || ౫౩ ||
-  s54:
+      ఉత్తరః, గోపతిః, గోప్తా, జ్ఞానగమ్యః, పురాతనః |\n
+      శరీరభూతభృద్, భోక్తా, కపీన్ద్ర, భూరిదక్షిణః || ౫౩ ||
+    namam-meanings:
+      - namam: ఉత్తరః
+        number: 497
+        meaning:
+      - namam: గోపతిః
+        number: 498
+        meaning:
+      - namam: గోప్తా
+        number: 499
+        meaning:
+      - namam: జ్ఞానగమ్యః
+        number: 500
+        meaning:
+      - namam: పురాతనః
+        number: 501
+        meaning:
+      - namam: శరీరభూతభృద్
+        number: 502
+        meaning:
+      - namam: భోక్తా
+        number: 503
+        meaning:
+      - namam: కపీన్ద్ర
+        number: 504
+        meaning:
+      - namam: భూరిదక్షిణః
+        number: 505
+        meaning:
+  s54: #505-514
     namalu:
-      సోమపోఽమృతపస్సోమః పురుజిత్పురుసత్తమః |\n
-      వినయో జయస్సత్యసంధో దాశార్హస్సాత్త్వతాంపతిః || ౫౪ ||
-  s55:
+      సోమపః, అమృతపః, సోమః, పురుజిత్, పురుసత్తమః |\n
+      వినయః, జయః, సత్యసంధః, దాశార్హః, స్సాత్త్వతాంపతిః || ౫౪ ||
+    namam-meanings:
+      - namam: సోమపః
+        number: 506
+        meaning:
+      - namam: అమృతపః
+        number: 507
+        meaning:
+      - namam: సోమః
+        number: 508
+        meaning:
+      - namam: పురుజిత్
+        number: 509
+        meaning:
+      - namam: పురుసత్తమః
+        number: 510
+        meaning:
+      - namam: వినయః
+        number: 511
+        meaning:
+      - namam: జయః
+        number: 512
+        meaning:
+      - namam: సత్యసంధః
+        number: 513
+        meaning:
+      - namam: దాశార్హః
+        number: 514
+        meaning:
+      - namam: స్సాత్త్వతాంపతిః
+        number: 515
+        meaning:
+  s55: #515-523
     namalu:
-      జీవో వినయితా సాక్షీ ముకుందోఽమితవిక్రమః |\n
-      అంభోనిధిరనంతాత్మా మహోదధిశయోఽన్తకః || ౫౫ ||
-  s56:
+      జీవః, వినయితా, సాక్షీః, ముకుందః, అమితవిక్రమః |\n
+      అంభోనిధిః, అనంతాత్మః, మహోదధిశయః, అన్తకః || ౫౫ ||
+    namam-meanings:
+      - namam: జీవః
+        number: 516
+        meaning:
+      - namam: వినయితా
+        number: 517
+        meaning:
+      - namam: సాక్షీః
+        number: 518
+        meaning:
+      - namam: ముకుందః
+        number: 519
+        meaning:
+      - namam: అమితవిక్రమః
+        number: 520
+        meaning:
+      - namam: అంభోనిధిః
+        number: 521
+        meaning:
+      - namam: అనంతాత్మః
+        number: 522
+        meaning:
+      - namam: మహోదధిశయః
+        number: 523
+        meaning:
+      - namam: అన్తకః
+        number: 524
+        meaning:
+  s56: #524-533
     namalu:
-      అజో మహార్హస్స్వాభావ్యో జితామిత్రః ప్రమోదనః |\n
-      ఆనందో నందనో నందస్సత్యధర్మా త్రివిక్రమః || ౫౬ ||
-  s57:
+      అజః, మహార్హః, స్స్వాభావ్యః, జితామిత్రః, ప్రమోదనః |\n
+      ఆనందః, నందనః, నందః, స్సత్యధర్మః, త్రివిక్రమః || ౫౬ ||
+    namam-meanings:
+      - namam: అజః
+        number: 525
+        meaning:
+      - namam: మహార్హః
+        number: 526
+        meaning:
+      - namam: స్స్వాభావ్యః
+        number: 527
+        meaning:
+      - namam: జితామిత్రః
+        number: 528
+        meaning:
+      - namam: ప్రమోదనః
+        number: 529
+        meaning:
+      - namam: ఆనందః
+        number: 530
+        meaning:
+      - namam: నందనః
+        number: 531
+        meaning:
+      - namam: నందః
+        number: 532
+        meaning:
+      - namam: స్సత్యధర్మః
+        number: 533
+        meaning:
+      - namam: త్రివిక్రమః
+        number: 534
+        meaning:
+  s57: #534-541
     namalu:
-      మహర్షిః కపిలాచార్యః కృతజ్ఞో మేదినీపతిః |\n
-      త్రిపదస్త్రిదశాధ్యక్షో మహాశృంగః కృతాంతకృత్ || ౫౭ ||
-  s58:
+      మహర్షిః, కపిలాచార్యః, కృతజ్ఞః, మేదినీపతిః |\n
+      త్రిపదః, త్రిదశాధ్యక్షః, మహాశృంగః, కృతాంతకృత్ || ౫౭ ||
+    namam-meanings:
+      - namam: మహర్షిః
+        number: 535
+        meaning:
+      - namam: కపిలాచార్యః
+        number: 536
+        meaning:
+      - namam: కృతజ్ఞః
+        number: 537
+        meaning:
+      - namam: మేదినీపతిః
+        number: 538
+        meaning:
+      - namam: త్రిపదః
+        number: 539
+        meaning:
+      - namam: త్రిదశాధ్యక్షః
+        number: 540
+        meaning:
+      - namam: మహాశృంగః
+        number: 541
+        meaning:
+      - namam: కృతాంతకృత్
+        number: 542
+        meaning:
+  s58: #542-550
     namalu:
-      మహావరాహో గోవిందస్సుషేణః కనకాంగదీ |\n
-      గుహ్యో గభీరో గహనో గుప్తశ్చక్రగదాధరః || ౫౮ ||
-  s59:
+      మహావరాహః, గోవిందః, సుషేణః, కనకాంగదీ |\n
+      గుహ్య, గభీరః, గహనో, గుప్తః, చక్రగదాధరః || ౫౮ ||
+    namam-meanings:
+      - namam: మహావరాహః
+        number: 543
+        meaning:
+      - namam: గోవిందః
+        number: 544
+        meaning:
+      - namam: సుషేణః
+        number: 545
+        meaning:
+      - namam: కనకాంగదీ
+        number: 546
+        meaning:
+      - namam: గుహ్య
+        number: 547
+        meaning:
+      - namam: గభీరః
+        number: 548
+        meaning:
+      - namam: గహనో
+        number: 549
+        meaning:
+      - namam: గుప్తః
+        number: 550
+        meaning:
+      - namam: చక్రగదాధరః
+        number: 551
+        meaning:
+  s59: #551-562
     namalu:
-      వేధాస్స్వాంగోఽజితః కృష్ణో దృఢస్సంకర్షణోఽచ్యుతః |\n
-      వరుణో వారుణో వృక్షః పుష్కరాక్షో మహామనాః || ౫౯ ||
-  s60:
+      వేధాః, స్స్వాంగః, అజితః, కృష్ణః, దృఢః, స్సంకర్షణః, అచ్యుతః |\n
+      వరుణః, వారుణః, వృక్షః, పుష్కరాక్షః, మహామనాః || ౫౯ ||
+    namam-meanings:
+      - namam: వేధాః
+        number: 552
+        meaning:
+      - namam: స్స్వాంగః
+        number: 553
+        meaning:
+      - namam: అజితః
+        number: 554
+        meaning:
+      - namam: కృష్ణః
+        number: 555
+        meaning:
+      - namam: దృఢః
+        number: 556
+        meaning:
+      - namam: స్సంకర్షణః
+        number: 557
+        meaning:
+      - namam: అచ్యుతః
+        number: 558
+        meaning:
+      - namam: వరుణః
+        number: 559
+        meaning:
+      - namam: వారుణః
+        number: 560
+        meaning:
+      - namam: వృక్షః
+        number: 561
+        meaning:
+      - namam: పుష్కరాక్షః
+        number: 562
+        meaning:
+      - namam: మహామనాః
+        number: 563
+        meaning:
+  s60: #563-571
     namalu:
-      భగవాన్ భగహాఽఽనందీ వనమాలీ హలాయుధః |\n
-      ఆదిత్యో జ్యోతిరాదిత్యస్సహిష్ణుర్గతిసత్తమః || ౬౦ ||
+      భగవాన్, భగహా, నందీ, వనమాలీ, హలాయుధః |\n
+      ఆదిత్య, జ్యోతిరాదిత్యః, సహిష్ణుః, గతిసత్తమః || ౬౦ ||
+    namam-meanings:
+      - namam: భగవాన్
+        number: 564
+        meaning:
+      - namam: భగహా
+        number: 565
+        meaning:
+      - namam: నందీ
+        number: 566
+        meaning:
+      - namam: వనమాలీ
+        number: 567
+        meaning:
+      - namam: హలాయుధః
+        number: 568
+        meaning:
+      - namam: ఆదిత్య
+        number: 569
+        meaning:
+      - namam: జ్యోతిరాదిత్యః
+        number: 570
+        meaning:
+      - namam: సహిష్ణుః
+        number: 571
+        meaning:
+      - namam: గతిసత్తమః
+        number: 572
+        meaning:
   s61:
     namalu:
       సుధన్వా ఖండపరశుర్దారుణో ద్రవిణప్రదః |\n
