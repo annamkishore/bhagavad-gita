@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/bhagavad-gita/static/css/main.a9926226.css",
-    "main.js": "/bhagavad-gita/static/js/main.9bd913a5.js",
+    "main.js": "/bhagavad-gita/static/js/main.5f803589.js",
     "static/js/551.694544c2.chunk.js": "/bhagavad-gita/static/js/551.694544c2.chunk.js",
     "static/media/chapter-01-05.mp3": "/bhagavad-gita/static/media/chapter-01-05.97a4de0143c32a9e11cc.mp3",
     "static/media/chapter-06-12.mp3": "/bhagavad-gita/static/media/chapter-06-12.338e437844ae2017dda2.mp3",
     "static/media/chapter-13-18.mp3": "/bhagavad-gita/static/media/chapter-13-18.2c80d0dd49b7a2cf5dd0.mp3",
-    "static/media/slokas-meaning.yaml": "/bhagavad-gita/static/media/slokas-meaning.7fd6d7bd254f846ee91f.yaml",
+    "static/media/slokas-meaning.yaml": "/bhagavad-gita/static/media/slokas-meaning.2b9b390dd23b644a0dad.yaml",
     "static/media/sky.png": "/bhagavad-gita/static/media/sky.29f23b4e990e8f1286cf.png",
     "static/media/slokabg.png": "/bhagavad-gita/static/media/slokabg.b9dc5866fa1738038580.png",
     "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.6f893389b748bc197f4a.yaml",
@@ -14,11 +14,11 @@
     "static/media/audio-time.yaml": "/bhagavad-gita/static/media/audio-time.889c74cfcd8859ebe042.yaml",
     "index.html": "/bhagavad-gita/index.html",
     "main.a9926226.css.map": "/bhagavad-gita/static/css/main.a9926226.css.map",
-    "main.9bd913a5.js.map": "/bhagavad-gita/static/js/main.9bd913a5.js.map",
+    "main.5f803589.js.map": "/bhagavad-gita/static/js/main.5f803589.js.map",
     "551.694544c2.chunk.js.map": "/bhagavad-gita/static/js/551.694544c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9926226.css",
-    "static/js/main.9bd913a5.js"
+    "static/js/main.5f803589.js"
   ]
 }
