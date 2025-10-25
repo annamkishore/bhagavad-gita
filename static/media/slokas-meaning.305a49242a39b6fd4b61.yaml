@@ -31,7 +31,7 @@ slokam:
       - namam: భూతభవ్యభవత్ప్రభుః
         number: 4
         meaning:
-      - namam: # for next line
+      - namam:        # for next line
       - namam: భూతకృద్
         number: 5
         meaning:
@@ -381,6 +381,7 @@ slokam:
       - namam: రచ్యుతః
         number: 101
         meaning:
+      - namam:
       - namam: వృషాకపిః
         number: 102
         meaning:
@@ -410,6 +411,7 @@ slokam:
       - namam: సమ్మితః
         number: 109
         meaning:
+      - namam:
       - namam: సమః
         number: 110
         meaning:
@@ -445,6 +447,7 @@ slokam:
       - namam: శ్శుచిశ్రవాః
         number: 119
         meaning:
+      - namam:
       - namam: అమృతః
         number: 120
         meaning:
@@ -477,6 +480,7 @@ slokam:
       - namam: జనార్దనః
         number: 128
         meaning:
+      - namam:
       - namam: వేదః
         number: 129
         meaning:
@@ -512,6 +516,7 @@ slokam:
       - namam: కృతాకృతః
         number: 138
         meaning:
+      - namam:
       - namam: చతురాత్మా
         number: 139
         meaning:
@@ -544,6 +549,7 @@ slokam:
       - namam: జగదాదిజః
         number: 147
         meaning:
+      - namam:
       - namam: అనఘః
         number: 148
         meaning:
@@ -582,6 +588,7 @@ slokam:
       - namam: ఊర్జితః
         number: 158
         meaning:
+      - namam:
       - namam: అతీన్ద్రః
         number: 159
         meaning:
@@ -623,6 +630,7 @@ slokam:
       - namam: మధుః
         number: 170
         meaning:
+      - namam:
       - namam: అతీన్ద్రియః
         number: 171
         meaning:
@@ -652,6 +660,7 @@ slokam:
       - namam: మహాద్యుతిః
         number: 178
         meaning:
+      - namam:
       - namam: అనిర్దేశ్యవపుః
         number: 179
         meaning:
@@ -681,6 +690,7 @@ slokam:
       - namam: సతాం‍గతిః
         number: 186
         meaning:
+      - namam:
       - namam: అనిరుద్ధః
         number: 187
         meaning:
@@ -713,6 +723,7 @@ slokam:
       - namam: భుజగోత్తమః
         number: 195
         meaning:
+      - namam:
       - namam: హిరణ్యనాభః
         number: 196
         meaning:
@@ -748,6 +759,7 @@ slokam:
       - namam: స్థిరః
         number: 205
         meaning:
+      - namam:
       - namam: అజః
         number: 206
         meaning:
@@ -780,6 +792,7 @@ slokam:
       - namam: సత్యపరాక్రమ
         number: 214
         meaning:
+      - namam:
       - namam: నిమిషః
         number: 215
         meaning:
@@ -818,6 +831,7 @@ slokam:
       - namam: సమీరణః
         number: 225
         meaning:
+      - namam:
       - namam: సహస్రమూర్ధా
         number: 226
         meaning:
@@ -847,6 +861,7 @@ slokam:
       - namam: సంప్రమర్దనః
         number: 233
         meaning:
+      - namam:
       - namam: అహః సంవర్తకః
         number: 234
         meaning:
@@ -876,6 +891,7 @@ slokam:
       - namam: విశ్వభుగ్ విభుః
         number: 241
         meaning:
+      - namam:
       - namam: సత్కర్తా
         number: 242
         meaning:
@@ -914,6 +930,7 @@ slokam:
       - namam: శుచిః
         number: 252
         meaning:
+      - namam:
       - namam: సిద్ధార్థః
         number: 253
         meaning:
@@ -946,6 +963,7 @@ slokam:
       - namam: వృషోదరః
         number: 261
         meaning:
+      - namam:
       - namam: వర్ధనః
         number: 262
         meaning:
@@ -981,6 +999,7 @@ slokam:
       - namam: వసుః
         number: 271
         meaning:
+      - namam:
       - namam: నైకరూపః
         number: 272
         meaning:
@@ -1007,6 +1026,7 @@ slokam:
       - namam: ప్రతాపనః
         number: 278
         meaning:
+      - namam:
       - namam: ఋద్ధః
         number: 279
         meaning:
@@ -1039,6 +1059,7 @@ slokam:
       - namam: సురేశ్వరః
         number: 287
         meaning:
+      - namam:
       - namam: ఔషధం
         number: 288
         meaning:
@@ -1065,6 +1086,7 @@ slokam:
       - namam: అనలః
         number: 294
         meaning:
+      - namam:
       - namam: కామః
         number: 295
         meaning:
@@ -1100,6 +1122,7 @@ slokam:
       - namam: మహాశనః
         number: 304
         meaning:
+      - namam:
       - namam: అదృశ్యః
         number: 305
         meaning:
@@ -1135,6 +1158,7 @@ slokam:
       - namam: వృషః
         number: 314
         meaning:
+      - namam:
       - namam: క్రోధః
         number: 315
         meaning:
@@ -1170,6 +1194,7 @@ slokam:
       - namam: వాసవానుజః
         number: 324
         meaning:
+      - namam:
       - namam: అపాంనిధిః
         number: 325
         meaning:
@@ -1202,6 +1227,7 @@ slokam:
       - namam: వాయువాహనః
         number: 333
         meaning:
+      - namam:
       - namam: వాసుదేవః
         number: 334
         meaning:
@@ -1237,6 +1263,7 @@ slokam:
       - namam: జనేశ్వరః
         number: 343
         meaning:
+      - namam:
       - namam: అనుకూలః
         number: 344
         meaning:
@@ -1266,6 +1293,7 @@ slokam:
       - namam: శరీరభృత్
         number: 351
         meaning:
+      - namam:
       - namam: మహర్ధిః
         number: 352
         meaning:
@@ -1301,6 +1329,7 @@ slokam:
       - namam: హవిర్హరిః
         number: 361
         meaning:
+      - namam:
       - namam: సర్వలక్షణ లక్షణః
         number: 362
         meaning:
@@ -1333,6 +1362,7 @@ slokam:
       - namam: సహః
         number: 370
         meaning:
+      - namam:
       - namam: మహీధరః
         number: 371
         meaning:
@@ -1365,6 +1395,7 @@ slokam:
       - namam: పరమేశ్వరః
         number: 379
         meaning:
+      - namam:
       - namam: కరణం
         number: 380
         meaning:
@@ -1403,6 +1434,7 @@ slokam:
       - namam: ధ్రువః
         number: 390
         meaning:
+      - namam:
       - namam: పరర్ధిః
         number: 391
         meaning:
@@ -1444,6 +1476,7 @@ slokam:
       - namam: అనయః
         number: 402
         meaning:
+      - namam:
       - namam: వీరః
         number: 403
         meaning:
@@ -1479,6 +1512,7 @@ slokam:
       - namam: పృథుః
         number: 412
         meaning:
+      - namam:
       - namam: హిరణ్యగర్భః
         number: 413
         meaning:
@@ -1514,6 +1548,7 @@ slokam:
       - namam: పరిగ్రహః
         number: 422
         meaning:
+      - namam:
       - namam: ఉగ్రః
         number: 423
         meaning:
@@ -1546,6 +1581,7 @@ slokam:
       - namam: బీజమవ్యయః
         number: 431
         meaning:
+      - namam:
       - namam: అర్థః
         number: 432
         meaning:
@@ -1581,6 +1617,7 @@ slokam:
       - namam: మహామఖః
         number: 441
         meaning:
+      - namam:
       - namam: నక్షత్రనేమిః
         number: 442
         meaning:
@@ -1619,6 +1656,7 @@ slokam:
       - namam: సతాం‍గతిః
         number: 452
         meaning:
+      - namam:
       - namam: సర్వదర్శి
         number: 453
         meaning:
@@ -1654,6 +1692,7 @@ slokam:
       - namam: సుహృత్
         number: 462
         meaning:
+      - namam:
       - namam: మనోహరః
         number: 463
         meaning:
@@ -1686,6 +1725,7 @@ slokam:
       - namam: నైకకర్మకృత్
         number: 471
         meaning:
+      - namam:
       - namam: వత్సరః
         number: 472
         meaning:
@@ -1728,6 +1768,7 @@ slokam:
       - namam: అక్షరమ్
         number: 483
         meaning:
+      - namam:
       - namam: అవిజ్ఞాతా
         number: 484
         meaning:
@@ -1757,6 +1798,7 @@ slokam:
       - namam: భూతమహేశ్వరః
         number: 491
         meaning:
+      - namam:
       - namam: ఆదిదేవః
         number: 492
         meaning:
@@ -1792,6 +1834,7 @@ slokam:
       - namam: పురాతనః
         number: 501
         meaning:
+      - namam:
       - namam: శరీరభూతభృద్
         number: 502
         meaning:
@@ -1824,6 +1867,7 @@ slokam:
       - namam: పురుసత్తమః
         number: 510
         meaning:
+      - namam:
       - namam: వినయః
         number: 511
         meaning:
@@ -1859,6 +1903,7 @@ slokam:
       - namam: అమితవిక్రమః
         number: 520
         meaning:
+      - namam:
       - namam: అంభోనిధిః
         number: 521
         meaning:
@@ -1891,6 +1936,7 @@ slokam:
       - namam: ప్రమోదనః
         number: 529
         meaning:
+      - namam:
       - namam: ఆనందః
         number: 530
         meaning:
@@ -1923,6 +1969,7 @@ slokam:
       - namam: మేదినీపతిః
         number: 538
         meaning:
+      - namam:
       - namam: త్రిపదః
         number: 539
         meaning:
@@ -1952,6 +1999,7 @@ slokam:
       - namam: కనకాంగదీ
         number: 546
         meaning:
+      - namam:
       - namam: గుహ్య
         number: 547
         meaning:
@@ -1993,6 +2041,7 @@ slokam:
       - namam: అచ్యుతః
         number: 558
         meaning:
+      - namam:
       - namam: వరుణః
         number: 559
         meaning:
@@ -2028,6 +2077,7 @@ slokam:
       - namam: హలాయుధః
         number: 568
         meaning:
+      - namam:
       - namam: ఆదిత్య
         number: 569
         meaning:
@@ -2057,6 +2107,7 @@ slokam:
       - namam: ద్రవిణప్రదః
         number: 575
         meaning:
+      - namam:
       - namam: దివిస్పృక్
         number: 576
         meaning:
@@ -2095,6 +2146,7 @@ slokam:
       - namam: భిషక్
         number: 586
         meaning:
+      - namam:
       - namam: సన్న్యాసకృత్
         number: 587
         meaning:
@@ -2133,6 +2185,7 @@ slokam:
       - namam: కువలేశయః
         number: 597
         meaning:
+      - namam:
       - namam: గోహితః
         number: 598
         meaning:
@@ -2168,6 +2221,7 @@ slokam:
       - namam: శివః
         number: 607
         meaning:
+      - namam:
       - namam: శ్రీవత్సవక్షాః
         number: 608
         meaning:
@@ -2200,6 +2254,7 @@ slokam:
       - namam: శ్రీవిభావనః
         number: 616
         meaning:
+      - namam:
       - namam: శ్రీధరః
         number: 617
         meaning:
@@ -2235,6 +2290,7 @@ slokam:
       - namam: జ్యోతిర్గణేశ్వరః
         number: 626
         meaning:
+      - namam:
       - namam: విజితాత్మ
         number: 627
         meaning:
@@ -2264,6 +2320,7 @@ slokam:
       - namam: శ్శాశ్వతస్థిరః
         number: 634
         meaning:
+      - namam:
       - namam: భూశయః
         number: 635
         meaning:
@@ -2299,6 +2356,7 @@ slokam:
       - namam: విశోధనః
         number: 644
         meaning:
+      - namam:
       - namam: అనిరుద్ధః
         number: 645
         meaning:
@@ -2328,6 +2386,7 @@ slokam:
       - namam: శూరజనేశ్వరః
         number: 652
         meaning:
+      - namam:
       - namam: త్రిలోకాత్మ
         number: 653
         meaning:
@@ -2363,6 +2422,7 @@ slokam:
       - namam: కృతాగమః
         number: 662
         meaning:
+      - namam:
       - namam: అనిర్దేశ్యవపుః
         number: 663
         meaning:
@@ -2395,6 +2455,7 @@ slokam:
       - namam: బ్రహ్మవివర్ధనః
         number: 671
         meaning:
+      - namam:
       - namam: బ్రహ్మవిద్
         number: 672
         meaning:
@@ -2427,6 +2488,7 @@ slokam:
       - namam: మహోరగః
         number: 680
         meaning:
+      - namam:
       - namam: మహాక్రతుః
         number: 681
         meaning:
@@ -2462,6 +2524,7 @@ slokam:
       - namam: రణప్రియః
         number: 690
         meaning:
+      - namam:
       - namam: పూర్ణః
         number: 691
         meaning:
@@ -2494,6 +2557,7 @@ slokam:
       - namam: వసుప్రదః
         number: 699
         meaning:
+      - namam:
       - namam: వాసుదేవః
         number: 700
         meaning:
@@ -2526,6 +2590,7 @@ slokam:
       - namam: సత్పరాయణః
         number: 708
         meaning:
+      - namam:
       - namam: శూరసేనః
         number: 709
         meaning:
@@ -2555,6 +2620,7 @@ slokam:
       - namam: అనలః
         number: 716
         meaning:
+      - namam:
       - namam: దర్పః
         number: 717
         meaning:
@@ -2587,6 +2653,7 @@ slokam:
       - namam: అమూర్తిమాన్
         number: 725
         meaning:
+      - namam:
       - namam: అనేకమూర్తిః
         number: 726
         meaning:
@@ -2631,6 +2698,7 @@ slokam:
       - namam: పదమనుత్తమమ్
         number: 738
         meaning:
+      - namam:
       - namam: లోకబంధుః
         number: 739
         meaning:
@@ -2663,6 +2731,7 @@ slokam:
       - namam: చందనాంగదీ
         number: 747
         meaning:
+      - namam:
       - namam: వీరహా
         number: 748
         meaning:
@@ -2701,6 +2770,7 @@ slokam:
       - namam: త్రిలోకధృక్
         number: 758
         meaning:
+      - namam:
       - namam: సుమేధాః
         number: 759
         meaning:
@@ -2730,6 +2800,7 @@ slokam:
       - namam: సర్వశస్త్రభృతాం వరః
         number: 765
         meaning:
+      - namam:
       - namam: ప్రగ్రహః
         number: 766
         meaning:
@@ -2762,6 +2833,7 @@ slokam:
       - namam: చతుర్గతిః
         number: 774
         meaning:
+      - namam:
       - namam: చతురాత్మ
         number: 775
         meaning:
@@ -2791,6 +2863,7 @@ slokam:
       - namam: దురతిక్రమః
         number: 782
         meaning:
+      - namam:
       - namam: దుర్లభ
         number: 783
         meaning:
@@ -2823,6 +2896,7 @@ slokam:
       - namam: స్తంతువర్ధనః
         number: 791
         meaning:
+      - namam:
       - namam: ఇంద్రకర్మా
         number: 792
         meaning:
@@ -2855,6 +2929,7 @@ slokam:
       - namam: సులోచనః
         number: 800
         meaning:
+      - namam:
       - namam: అర్క
         number: 801
         meaning:
@@ -2884,6 +2959,7 @@ slokam:
       - namam: స్సర్వవాగీశ్వరేశ్వరః
         number: 808
         meaning:
+      - namam:
       - namam: మహాహ్రదః
         number: 809
         meaning:
@@ -2919,6 +2995,7 @@ slokam:
       - namam: అనిలః
         number: 818
         meaning:
+      - namam:
       - namam: అమృతాంశః
         number: 819
         meaning:
@@ -2945,20 +3022,18 @@ slokam:
       - namam: సిద్ధః
         number: 825
         meaning:
-      - namam: శత్రుజిత్
+      - namam: శత్రుజిత్ శత్రుతాపనః
         number: 826
         meaning:
-      - namam: శత్రుతాపనః
+      - namam:
+      - namam: న్యగ్రోధోదుంబరః
         number: 827
         meaning:
-      - namam: న్యగ్రోధోదుంబరః
+      - namam: అశ్వత్థః
         number: 828
         meaning:
-      - namam: అశ్వత్థః
-        number: 829
-        meaning:
       - namam: చాణూరాంధ్ర నిషూదనః
-        number: 830
+        number: 829
         meaning:
   s89: #830-838
     namalu:
@@ -2966,31 +3041,32 @@ slokam:
       అమూర్తిః, అనఘః, అచిన్త్యః,  భయకృద్ భయనాశనః || ౮౯ ||
     namam-meanings:
       - namam: సహస్రార్చిః
-        number: 831
+        number: 830
         meaning:
       - namam: సప్తజిహ్వః
-        number: 832
+        number: 831
         meaning:
       - namam: స్సప్తైధాః
-        number: 833
+        number: 832
         meaning:
       - namam: స్సప్తవాహనః
+        number: 833
+        meaning:
+      - namam:
+      - namam: అమూర్తిః
         number: 834
         meaning:
-      - namam: అమూర్తిః
+      - namam: అనఘః
         number: 835
         meaning:
-      - namam: అనఘః
+      - namam: అచిన్త్యః
         number: 836
         meaning:
-      - namam: అచిన్త్యః
+      - namam: భయకృద్
         number: 837
         meaning:
-      - namam: భయకృద్
-        number: 838
-        meaning:
       - namam: భయనాశనః
-        number: 839
+        number: 838
         meaning:
   s90: #839-850
     namalu:
@@ -2998,40 +3074,41 @@ slokam:
       అధృతః, స్వధృతః, స్వాస్యః, ప్రాగ్వంశః, వంశవర్ధనః || ౯౦ ||
     namam-meanings:
       - namam: అణుః
-        number: 840
+        number: 839
         meaning:
       - namam: బృహతః
-        number: 841
+        number: 840
         meaning:
       - namam: కృశః
-        number: 842
+        number: 841
         meaning:
       - namam: స్థూలః
-        number: 843
+        number: 842
         meaning:
       - namam: గుణభృద్
-        number: 844
+        number: 843
         meaning:
       - namam: నిర్గుణః
-        number: 845
+        number: 844
         meaning:
       - namam: మహాన్
+        number: 845
+        meaning:
+      - namam:
+      - namam: అధృతః
         number: 846
         meaning:
-      - namam: అధృతః
+      - namam: స్వధృతః
         number: 847
         meaning:
-      - namam: స్వధృతః
+      - namam: స్వాస్యః
         number: 848
         meaning:
-      - namam: స్వాస్యః
+      - namam: ప్రాగ్వంశః
         number: 849
         meaning:
-      - namam: ప్రాగ్వంశః
-        number: 850
-        meaning:
       - namam: వంశవర్ధనః
-        number: 851
+        number: 850
         meaning:
   s91: #851-860
     namalu:
@@ -3039,34 +3116,35 @@ slokam:
       ఆశ్రమః, శ్రమణః, క్షామః, సుపర్ణః, వాయువాహనః || ౯౧ ||
     namam-meanings:
       - namam: భారభృత్
-        number: 852
+        number: 851
         meaning:
       - namam: కథితః
-        number: 853
+        number: 852
         meaning:
       - namam: యోగీ
-        number: 854
+        number: 853
         meaning:
       - namam: యోగీశః
-        number: 855
+        number: 854
         meaning:
       - namam: స్సర్వకామదః
+        number: 855
+        meaning:
+      - namam:
+      - namam: ఆశ్రమః
         number: 856
         meaning:
-      - namam: ఆశ్రమః
+      - namam: శ్రమణః
         number: 857
         meaning:
-      - namam: శ్రమణః
+      - namam: క్షామ
         number: 858
         meaning:
-      - namam: క్షామః
+      - namam: సుపర్ణః
         number: 859
         meaning:
-      - namam: సుపర్ణః
-        number: 860
-        meaning:
       - namam: వాయువాహనః
-        number: 861
+        number: 860
         meaning:
 
   s92: #861-870
@@ -3075,139 +3153,132 @@ slokam:
       అపరాజితః, స్సర్వసహః, నియంతః, నియమః, యమః || ౯౨ ||
     namam-meanings:
       - namam: ధనుర్ధరః
-        number: 862
+        number: 861
         meaning:
       - namam: ధనుర్వేదః
-        number: 863
+        number: 862
         meaning:
       - namam: దండః
-        number: 864
+        number: 863
         meaning:
       - namam: దమయితాః
-        number: 865
+        number: 864
         meaning:
       - namam: అదమః
+        number: 865
+        meaning:
+      - namam:
+      - namam: అపరాజితః
         number: 866
         meaning:
-      - namam: అపరాజితః
+      - namam: స్సర్వసహః
         number: 867
         meaning:
-      - namam: స్సర్వసహః
+      - namam: నియంతః
         number: 868
         meaning:
-      - namam: నియంతః
+      - namam: నియమః
         number: 869
         meaning:
-      - namam: నియమః
+      - namam: యమః
         number: 870
         meaning:
-      - namam: యమః
-        number: 871
-        meaning:
-
   s93: #871-879
     namalu:
       సత్త్వవాన్, సాత్త్వికః, సత్యః, స్సత్యధర్మపరాయణః |\n
       అభిప్రాయః, ప్రియార్హః, అర్హః, ప్రియకృత్, ప్రీతివర్ధనః || ౯౩ ||
     namam-meanings:
       - namam: సత్త్వవాన్
-        number: 872
+        number: 871
         meaning:
       - namam: సాత్త్వికః
-        number: 873
+        number: 872
         meaning:
       - namam: సత్యః
-        number: 874
+        number: 873
         meaning:
       - namam: స్సత్యధర్మపరాయణః
+        number: 874
+        meaning:
+      - namam:
+      - namam: అభిప్రాయః
         number: 875
         meaning:
-      - namam: అభిప్రాయః
+      - namam: ప్రియార్హః
         number: 876
         meaning:
-      - namam: ప్రియార్హః
+      - namam: అర్హః
         number: 877
         meaning:
-      - namam: అర్హః
+      - namam: ప్రియకృత్
         number: 878
         meaning:
-      - namam: ప్రియకృత్
+      - namam: ప్రీతివర్ధనః
         number: 879
         meaning:
-      - namam: ప్రీతివర్ధనః
-        number: 880
-        meaning:
-
   s94: #880-888
     namalu:
-      విహాయసగతిః, జ్యోతిః, సురుచి, హుతభుగ్, విభుః |\n
+      విహాయసగతిః, జ్యోతిః, సురుచి, హుతభుగ్ విభుః |\n
       రవిః, విలోచనః, సూర్యః, సవితా, రవిలోచనః || ౯౪ ||
     namam-meanings:
       - namam: విహాయసగతిః
-        number: 881
+        number: 880
         meaning:
       - namam: జ్యోతిః
-        number: 882
+        number: 881
         meaning:
       - namam: సురుచి
+        number: 882
+        meaning:
+      - namam: హుతభుగ్ విభుః
         number: 883
         meaning:
-      - namam: హుతభుగ్
+      - namam:
+      - namam: రవిః
         number: 884
         meaning:
-      - namam: విభుః
+      - namam: విలోచనః
         number: 885
         meaning:
-      - namam: రవిః
+      - namam: సూర్యః
         number: 886
         meaning:
-      - namam: విలోచనః
+      - namam: సవితా
         number: 887
         meaning:
-      - namam: సూర్యః
-        number: 888
-        meaning:
-      - namam: సవితా
-        number: 889
-        meaning:
       - namam: రవిలోచనః
-        number: 890
+        number: 888
         meaning:
 
   s95: #889-896
     namalu:
-      అనంతః, హుతభుగ్, భోక్తాః, సుఖదః, నైకజః, అగ్రజః |\n
+      అనంతః హుతభుగ్ భోక్తాః, సుఖదః, నైకజః, అగ్రజః |\n
       అనిర్విణ్ణః, సదామర్షీః, లోకాధిష్ఠానః, అద్భుతః || ౯౫ ||
     namam-meanings:
-      - namam: అనంతః
-        number: 891
-        meaning:
-      - namam: హుతభుగ్
-        number: 892
-        meaning:
-      - namam: భోక్తాః
-        number: 893
+      - namam: అనంతః హుతభుగ్ భోక్తాః
+        number: 889
         meaning:
       - namam: సుఖదః
-        number: 894
+        number: 890
         meaning:
       - namam: నైకజః
-        number: 895
+        number: 891
         meaning:
       - namam: అగ్రజః
-        number: 896
+        number: 892
         meaning:
+      - namam:
       - namam: అనిర్విణ్ణః
-        number: 897
+        number: 893
         meaning:
       - namam: సదామర్షీః
-        number: 898
+        number: 894
         meaning:
       - namam: లోకాధిష్ఠానః
-        number: 899
+        number: 895
         meaning:
       - namam: అద్భుతః
-        number: 900
+        number: 896
         meaning:
 
   s96: #897-905
@@ -3216,31 +3287,32 @@ slokam:
       స్వస్తిదః, స్వస్తికృతః, స్వస్తి, స్వస్తిభుక్, స్వస్తిదక్షిణః || ౯౬ ||
     namam-meanings:
       - namam: సనాత్
-        number: 901
+        number: 897
         meaning:
       - namam: సనాతనతమః
-        number: 902
+        number: 898
         meaning:
       - namam: కపిలః
-        number: 903
+        number: 899
         meaning:
       - namam: కపిరవ్యయః
-        number: 904
+        number: 900
         meaning:
+      - namam:
       - namam: స్వస్తిదః
-        number: 905
+        number: 901
         meaning:
       - namam: స్వస్తికృతః
-        number: 906
+        number: 902
         meaning:
       - namam: స్వస్తి
-        number: 907
+        number: 903
         meaning:
       - namam: స్వస్తిభుక్
-        number: 908
+        number: 904
         meaning:
       - namam: స్వస్తిదక్షిణః
-        number: 909
+        number: 905
         meaning:
 
   s97: #906-914
@@ -3249,97 +3321,96 @@ slokam:
       శబ్దాతిగః, శబ్దసహః, శిశిరః, శర్వరీకరః || ౯౭ ||
     namam-meanings:
       - namam: అరౌద్రః
-        number: 910
+        number: 906
         meaning:
       - namam: కుండలీః
-        number: 911
+        number: 907
         meaning:
       - namam: చక్రీః
-        number: 912
+        number: 908
         meaning:
       - namam: విక్రమః
-        number: 913
+        number: 909
         meaning:
       - namam: ఊర్జితశాసనః
-        number: 914
+        number: 910
         meaning:
+      - namam:
       - namam: శబ్దాతిగః
-        number: 915
+        number: 911
         meaning:
       - namam: శబ్దసహః
-        number: 916
+        number: 912
         meaning:
       - namam: శిశిరః
-        number: 917
+        number: 913
         meaning:
       - namam: శర్వరీకరః
-        number: 918
+        number: 914
         meaning:
-
   s98: #915-922
     namalu:
       అక్రూరః, పేశలః, దక్షః, దక్షిణః, క్షమిణాం‍వరః |\n
       విద్వత్తమః, వీతభయః, పుణ్యశ్రవణకీర్తనః || ౯౮ ||
     namam-meanings:
       - namam: అక్రూరః
-        number: 919
+        number: 915
         meaning:
       - namam: పేశలః
-        number: 920
+        number: 916
         meaning:
       - namam: దక్షః
-        number: 921
+        number: 917
         meaning:
       - namam: దక్షిణః
-        number: 922
+        number: 918
         meaning:
       - namam: క్షమిణాం‍వరః
-        number: 923
+        number: 919
         meaning:
+      - namam:
       - namam: విద్వత్తమః
-        number: 924
+        number: 920
         meaning:
       - namam: వీతభయః
-        number: 925
+        number: 921
         meaning:
       - namam: పుణ్యశ్రవణకీర్తనః
-        number: 926
+        number: 922
         meaning:
 
   s99: #923-931
     namalu:
-      ఉత్తారణః, దుష్కృతిహా, పుణ్యః, దుస్స్వప్నః, నాశనః |\n
+      ఉత్తారణః, దుష్కృతిహా, పుణ్యః, దుస్స్వప్నః నాశనః |\n
       వీరహా, రక్షణః, సన్తః, జీవనః, పర్యవస్థితః || ౯౯ ||
     namam-meanings:
       - namam: ఉత్తారణః
-        number: 927
+        number: 923
         meaning:
       - namam: దుష్కృతిహా
-        number: 928
+        number: 924
         meaning:
       - namam: పుణ్యః
-        number: 929
+        number: 925
         meaning:
-      - namam: దుస్స్వప్నః
-        number: 930
+      - namam: దుస్స్వప్నః నాశనః
+        number: 926
         meaning:
-      - namam: నాశనః
-        number: 931
-        meaning:
+      - namam:
       - namam: వీరహా
-        number: 932
+        number: 927
         meaning:
       - namam: రక్షణః
-        number: 933
+        number: 928
         meaning:
       - namam: సన్తః
-        number: 934
+        number: 929
         meaning:
       - namam: జీవనః
-        number: 935
+        number: 930
         meaning:
       - namam: పర్యవస్థితః
-        number: 936
+        number: 931
         meaning:
 
   s100: #932-940
@@ -3348,31 +3419,32 @@ slokam:
       చతురశ్రః, గభీరాత్మ, విదిశః, వ్యాదిశః, దిశః || ౧౦౦ ||
     namam-meanings:
       - namam: అనంతరూపః
-        number: 937
+        number: 932
         meaning:
       - namam: అనంతశ్రీః
-        number: 938
+        number: 933
         meaning:
       - namam: జితమన్యుః
-        number: 939
+        number: 934
         meaning:
       - namam: భయాపహః
-        number: 940
+        number: 935
         meaning:
+      - namam:
       - namam: చతురశ్రః
-        number: 941
+        number: 936
         meaning:
       - namam: గభీరాత్మ
-        number: 942
+        number: 937
         meaning:
       - namam: విదిశః
-        number: 943
+        number: 938
         meaning:
       - namam: వ్యాదిశః
-        number: 944
+        number: 939
         meaning:
       - namam: దిశః
-        number: 945
+        number: 940
         meaning:
 
   s101: #941-949
@@ -3381,31 +3453,32 @@ slokam:
       జనః, జనజన్మాదిః, భీమః, భీమపరాక్రమః || ౧౦౧ ||
     namam-meanings:
       - namam: అనాదిః
-        number: 946
+        number: 941
         meaning:
       - namam: భూర్భువః
-        number: 947
+        number: 942
         meaning:
       - namam: లక్ష్మీః
-        number: 948
+        number: 943
         meaning:
       - namam: సువీరః
-        number: 949
+        number: 944
         meaning:
       - namam: రుచిరాంగదః
-        number: 950
+        number: 955
         meaning:
+      - namam:
       - namam: జనః
-        number: 951
+        number: 956
         meaning:
       - namam: జనజన్మాదిః
-        number: 952
+        number: 957
         meaning:
       - namam: భీమః
-        number: 953
+        number: 958
         meaning:
       - namam: భీమపరాక్రమః
-        number: 954
+        number: 959
         meaning:
 
   s102: #950-958
@@ -3414,31 +3487,32 @@ slokam:
       ఊర్ధ్వగః, స్సత్పథాచారః, ప్రాణదః, ప్రణవః, పణః || ౧౦౨ ||
     namam-meanings:
       - namam: ఆధారనిలయః
-        number: 955
+        number: 950
         meaning:
       - namam: ధాతః
-        number: 956
+        number: 951
         meaning:
       - namam: పుష్పహాసః
-        number: 957
+        number: 952
         meaning:
       - namam: ప్రజాగరః
-        number: 958
+        number: 953
         meaning:
+      - namam:
       - namam: ఊర్ధ్వగః
-        number: 959
+        number: 954
         meaning:
       - namam: స్సత్పథాచారః
-        number: 960
+        number: 955
         meaning:
       - namam: ప్రాణదః
-        number: 961
+        number: 956
         meaning:
       - namam: ప్రణవః
-        number: 962
+        number: 957
         meaning:
       - namam: పణః
-        number: 963
+        number: 958
         meaning:
 
   s103: #959-966
@@ -3447,64 +3521,63 @@ slokam:
       తత్త్వం, తత్త్వవిత్, ఏకాత్మ, జన్మమృత్యుజరాతిగః || ౧౦౩ ||
     namam-meanings:
       - namam: ప్రమాణం
-        number: 964
+        number: 959
         meaning:
       - namam: ప్రాణనిలయః
-        number: 965
+        number: 960
         meaning:
       - namam: ప్రాణభృత్
-        number: 966
+        number: 961
         meaning:
       - namam: ప్రాణజీవనః
-        number: 967
+        number: 962
         meaning:
+      - namam:
       - namam: తత్త్వం
-        number: 968
+        number: 963
         meaning:
       - namam: తత్త్వవిత్
-        number: 969
+        number: 964
         meaning:
       - namam: ఏకాత్మ
-        number: 970
+        number: 975
         meaning:
       - namam: జన్మమృత్యుజరాతిగః
-        number: 971
+        number: 976
         meaning:
 
   s104: #967-975
     namalu:
-      భూర్భువః స్స్వస్తరుః, స్తారః, సవితా, ప్రపితాః, మహః |\n
+      భూర్భువః స్స్వస్తరుః, స్తారః, సవితా, ప్రపితాః మహః |\n
       యజ్ఞః, యజ్ఞపతిః, యజ్వాః, యజ్ఞాంగః, యజ్ఞవాహనః || ౧౦౪ ||
     namam-meanings:
       - namam: భూర్భువః స్స్వస్తరుః
-        number: 972
+        number: 967
         meaning:
       - namam: స్తారః
-        number: 973
+        number: 968
         meaning:
       - namam: సవితా
-        number: 974
+        number: 969
         meaning:
-      - namam: ప్రపితాః
-        number: 975
+      - namam: ప్రపితాః మహః
+        number: 970
         meaning:
-      - namam: మహః
-        number: 976
-        meaning:
+      - namam:
       - namam: యజ్ఞః
-        number: 977
+        number: 971
         meaning:
       - namam: యజ్ఞపతిః
-        number: 978
+        number: 972
         meaning:
       - namam: యజ్వాః
-        number: 979
+        number: 973
         meaning:
       - namam: యజ్ఞాంగః
-        number: 980
+        number: 974
         meaning:
       - namam: యజ్ఞవాహనః
-        number: 981
+        number: 975
         meaning:
 
   s105: #976-984
@@ -3513,31 +3586,32 @@ slokam:
       యజ్ఞాంతకృద్, యజ్ఞగుహ్యం, అన్నం, అన్నాద || ౧౦౫ ||
     namam-meanings:
       - namam: యజ్ఞభృద్
-        number: 982
+        number: 976
         meaning:
       - namam: యజ్ఞకృద్
-        number: 983
+        number: 977
         meaning:
       - namam: యజ్ఞీ
-        number: 984
+        number: 978
         meaning:
       - namam: యజ్ఞభుక్
-        number: 985
+        number: 979
         meaning:
       - namam: యజ్ఞసాధనః
-        number: 986
+        number: 980
         meaning:
+      - namam:
       - namam: యజ్ఞాంతకృద్
-        number: 987
+        number: 981
         meaning:
       - namam: యజ్ఞగుహ్యం
-        number: 988
+        number: 982
         meaning:
       - namam: అన్నం
-        number: 989
+        number: 983
         meaning:
       - namam: అన్నాద
-        number: 990
+        number: 984
         meaning:
 
   s106: #985-992
@@ -3546,28 +3620,29 @@ slokam:
       దేవకీనందనః, స్రష్టా, క్షితీశః, పాపనాశనః || ౧౦౬ ||
     namam-meanings:
       - namam: ఆత్మయోనిః
-        number: 991
+        number: 985
         meaning:
       - namam: స్స్వయంజాతః
-        number: 992
+        number: 986
         meaning:
       - namam: వైఖానః
-        number: 993
+        number: 987
         meaning:
       - namam: సామగాయనః
-        number: 994
+        number: 988
         meaning:
+      - namam:
       - namam: దేవకీనందనః
-        number: 995
+        number: 989
         meaning:
       - namam: స్రష్టా
-        number: 996
+        number: 990
         meaning:
       - namam: క్షితీశః
-        number: 997
+        number: 991
         meaning:
       - namam: పాపనాశనః
-        number: 998
+        number: 992
         meaning:
 
   s107: #993-1000
@@ -3577,28 +3652,29 @@ slokam:
       శ్రీసర్వప్రహరణాయుధ ఓం నమ ఇతి |
     namam-meanings:
       - namam: శంఖభృత్
-        number: 999
+        number: 993
         meaning:
       - namam: నందకీ
-        number: 1000
+        number: 994
         meaning:
       - namam: చక్రీ
-        number: 1001
+        number: 995
         meaning:
       - namam: శార్‍ఙ్గధన్వా
-        number: 1002
+        number: 996
         meaning:
       - namam: గదాధరః
-        number: 1003
+        number: 997
         meaning:
+      - namam:
       - namam: రథాంగపాణి
-        number: 1004
+        number: 998
         meaning:
       - namam: రక్షోభ్యస్
-        number: 1005
+        number: 999
         meaning:
       - namam: సర్వప్రహరణాయుధః
-        number: 1006
+        number: 1000
         meaning:
 
   s108:
