@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bhagavad-gita/static/css/main.a9926226.css",
-    "main.js": "/bhagavad-gita/static/js/main.88a25094.js",
-    "static/js/551.694544c2.chunk.js": "/bhagavad-gita/static/js/551.694544c2.chunk.js",
-    "static/media/chapter-01-05.mp3": "/bhagavad-gita/static/media/chapter-01-05.97a4de0143c32a9e11cc.mp3",
-    "static/media/chapter-06-12.mp3": "/bhagavad-gita/static/media/chapter-06-12.338e437844ae2017dda2.mp3",
-    "static/media/chapter-13-18.mp3": "/bhagavad-gita/static/media/chapter-13-18.2c80d0dd49b7a2cf5dd0.mp3",
-    "static/media/slokas-meaning.yaml": "/bhagavad-gita/static/media/slokas-meaning.884d0e51001ddeeb8f2a.yaml",
-    "static/media/sky.png": "/bhagavad-gita/static/media/sky.29f23b4e990e8f1286cf.png",
-    "static/media/slokabg.png": "/bhagavad-gita/static/media/slokabg.b9dc5866fa1738038580.png",
-    "static/media/slokas.yaml": "/bhagavad-gita/static/media/slokas.6f893389b748bc197f4a.yaml",
-    "static/media/stats.png": "/bhagavad-gita/static/media/stats.783e6882bc6dcd4e8b48.png",
-    "static/media/audio-time.yaml": "/bhagavad-gita/static/media/audio-time.889c74cfcd8859ebe042.yaml",
-    "index.html": "/bhagavad-gita/index.html",
-    "main.a9926226.css.map": "/bhagavad-gita/static/css/main.a9926226.css.map",
-    "main.88a25094.js.map": "/bhagavad-gita/static/js/main.88a25094.js.map",
-    "551.694544c2.chunk.js.map": "/bhagavad-gita/static/js/551.694544c2.chunk.js.map"
+    "main.css": "/static/css/main.6de360d8.css",
+    "main.js": "/static/js/main.c5f3de5f.js",
+    "static/js/551.694544c2.chunk.js": "/static/js/551.694544c2.chunk.js",
+    "static/media/chapter-01-05.mp3": "/static/media/chapter-01-05.97a4de0143c32a9e11cc.mp3",
+    "static/media/chapter-06-12.mp3": "/static/media/chapter-06-12.338e437844ae2017dda2.mp3",
+    "static/media/chapter-13-18.mp3": "/static/media/chapter-13-18.2c80d0dd49b7a2cf5dd0.mp3",
+    "static/media/slokas-meaning.yaml": "/static/media/slokas-meaning.884d0e51001ddeeb8f2a.yaml",
+    "static/media/sky.png": "/static/media/sky.29f23b4e990e8f1286cf.png",
+    "static/media/slokabg.png": "/static/media/slokabg.b9dc5866fa1738038580.png",
+    "static/media/slokas.yaml": "/static/media/slokas.6f893389b748bc197f4a.yaml",
+    "static/media/stats.png": "/static/media/stats.783e6882bc6dcd4e8b48.png",
+    "static/media/audio-time.yaml": "/static/media/audio-time.889c74cfcd8859ebe042.yaml",
+    "index.html": "/index.html",
+    "main.6de360d8.css.map": "/static/css/main.6de360d8.css.map",
+    "main.c5f3de5f.js.map": "/static/js/main.c5f3de5f.js.map",
+    "551.694544c2.chunk.js.map": "/static/js/551.694544c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9926226.css",
-    "static/js/main.88a25094.js"
+    "static/css/main.6de360d8.css",
+    "static/js/main.c5f3de5f.js"
   ]
 }
