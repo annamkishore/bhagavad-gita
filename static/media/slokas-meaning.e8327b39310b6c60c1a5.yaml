@@ -1214,32 +1214,32 @@ slokam:
     namam-meanings:
       - namam: అచ్యుతః
         number: 320
-        meaning:
+        meaning: ప్రభావమును కోల్పోనివాడు
       - namam: ప్రథితః
         number: 321
-        meaning:
+        meaning: ప్రసిద్ధిని పొందిన వాడు
       - namam: ప్రాణః
         number: 322
-        meaning:
+        meaning: తనను ఆశ్రయించిన భక్తులకు ప్రాణ సమానుడు
       - namam: ప్రాణదః
         number: 323
-        meaning:
+        meaning: దేవతలకు సముద్ర మదన కార్యక్రమములో వారికి కావలసిన బలమును ఇచ్చేవాడు
       - namam: వాసవానుజః
         number: 324
-        meaning:
+        meaning: ఇంద్రునికి తమ్ముడు
       - namam:
       - namam: అపాంనిధిః
         number: 325
-        meaning:
+        meaning: సముద్ర జలమును ధరించిన వాడు
       - namam: అధిష్ఠానః
         number: 326
-        meaning:
+        meaning: మందర పర్వతానికి ఆధారమై నిలిచినవాడు
       - namam: అప్రమత్తః
         number: 327
-        meaning:
+        meaning: మెలుకువ కలవాడు
       - namam: ప్రతిష్ఠితః
         number: 328
-        meaning:
+        meaning: తన మహిమలో తానే స్థిరంగా ఉండేవాడు
   s36: #328-336
     namalu:
       స్కందః, స్కందధరః, ధుర్యః, వరదః, వాయువాహనః |\n
@@ -1247,32 +1247,40 @@ slokam:
     namam-meanings:
       - namam: స్కందః
         number: 329
-        meaning:
+        meaning: క్రూరులైన రాక్షస జాతిని నశింపచేయువాడు
       - namam: స్కందధరః
         number: 330
-        meaning:
+        meaning: కుమారస్వామి తానే అయినవాడు [విష్ణు అంశ అయిన స్కందుడు]
       - namam: ధుర్యః
         number: 331
-        meaning:
+        meaning: లోకముల భారాన్ని వహించేవాడు
       - namam: వరదః
         number: 332
-        meaning:
+        meaning: భక్తుల కోరికలను తీర్చువాడు
       - namam: వాయువాహనః
         number: 333
-        meaning:
+        meaning: జగత్తుకు ప్రాణమయిండు వాయువును వీచినట్లు చేయువాడు
       - namam:
       - namam: వాసుదేవః
         number: 334
         meaning:
+          ప్రపంచంలో అంతటినీ తన యందు వసియుంచునట్లు చేయువాడు
+          వాసుః - ఈ ప్రపంచమును తల్లిలాగా తన ఒడిలో ఉంచుకొని కాపాడేవాడు
+          దేవః  - దివ్యముగా ప్రకాశించువాడు, క్రీడించువాడు, జయించువాడు
+          ద్వాదశాక్షరి మంత్రం - ఓం నమో భగవతే వాసుదేవాయ
+          శతాక్షరి మంత్రం - ఓం నమో విష్ణవే
+          అష్టాక్షరీ మంత్రం - ఓం నమో నారాయణాయ
       - namam: బృహద్భానుః
         number: 335
-        meaning:
+        meaning: అంతట వ్యాపించిన కిరణములు కలవాడు
       - namam: ఆదిదేవః
         number: 336
-        meaning:
+        meaning: మూల కారణమైనవాడు. ఆదియైనదేవుడు కారణభూతుడు
       - namam: పురన్దరః
         number: 337
         meaning:
+          పురుడు అనే రాక్షసుడిని చంపిన వాడు
+          (ఆధ్యాత్మిక, ఆదిదైవిక, ఆదిభౌతిక)
   s37: #337-346
     namalu:
       అశోకః, తారణః, తారః,  శూరః, శౌరిః, జనేశ్వరః |\n
@@ -1280,35 +1288,35 @@ slokam:
     namam-meanings:
       - namam: అశోకః
         number: 338
-        meaning:
+        meaning: శోకమును తొలగించువాడు
       - namam: తారణః
         number: 339
-        meaning:
+        meaning: శత్రువులు దొంగల నుండి రక్షించువాడు దాటించుట తప్పించుట
       - namam: తారః
         number: 340
-        meaning:
+        meaning: సమస్త సంసారభయము నుండి రక్షించువాడు ఆశ్రితులను అంటే ఆశ్రయించిన వారిని
       - namam: శూరః
         number: 341
-        meaning:
+        meaning: సర్వశక్తులపై జయించు సమర్థులు
       - namam: శౌరిః
         number: 342
-        meaning:
+        meaning: సూర్యుడైన వసుదేవుని పుత్రుడు తానే భక్తుల వద్దకు వెళ్లేవాడు
       - namam: జనేశ్వరః
         number: 343
-        meaning:
+        meaning: సర్వేజనాలకు ఈశ్వరుడు నియామకుడు ఐశ్వర్యవంతుడు
       - namam:
       - namam: అనుకూలః
         number: 344
-        meaning:
+        meaning: ఇష్టుడు అనుకూలంగా నడుచువాడు
       - namam: శ్శతావర్తః
         number: 345
-        meaning:
+        meaning: నూరు ఆవర్తములు సుడులు కలవాడు [ఆవర్తము = పొంగి వచ్చేది]
       - namam: పద్మీ
         number: 346
-        meaning:
+        meaning: హస్తమున నిత్యము కమలము పద్మం ను ధరించువాడు
       - namam: పద్మనిభేక్షణః
         number: 347
-        meaning:
+        meaning: చల్లని పద్మములు వంటి చూపును కలవాడు
   s38: #347-355
     namalu:
       పద్మనాభః, అరవిందాక్షః, పద్మగర్భః, శరీరభృత్ |\n
@@ -1316,32 +1324,35 @@ slokam:
     namam-meanings:
       - namam: పద్మనాభః
         number: 348
-        meaning:
+        meaning: పద్మపు మొగ్గ వంటి నాది కలవాడు
       - namam: అరవిందాక్షః
         number: 349
-        meaning:
+        meaning: అరవిందముల వంటి రెండు కన్నులు కలవాడు
       - namam: పద్మగర్భః
         number: 350
-        meaning:
+        meaning: ఉపాసకుల యొక్క హృదయ ధర్మములో నివాసము ఉండువాడు
       - namam: శరీరభృత్
         number: 351
-        meaning:
+        meaning: శరీరమును కాపాడువాడు
       - namam:
       - namam: మహర్ధిః
         number: 352
         meaning:
-      - namam: బుద్ధః
+          భక్తులకు యోగక్షేమములు కలిగించగల గొప్ప సంపద కలవాడు
+          లీలా విభూది - నీ ప్రకృతి మండలము
+          నిత్య విభూది - శ్రీ వైకుంఠ ము
+      - namam: బుుద్ధః
         number: 353
-        meaning:
+        meaning: భక్తుల సమృద్ధిని చూసి సంతోషించువాడు
       - namam: వృద్ధాత్మాః
         number: 354
-        meaning:
+        meaning: జ్ఞానానంద స్వరూపము కలవాడు
       - namam: మహాక్షః
         number: 355
-        meaning:
+        meaning: గరుడుడు వాహనము కలవాడు
       - namam: గరుడధ్వజః
         number: 356
-        meaning:
+        meaning: గరుత్మంతుని ధ్వజము కలవాడు
   s39: #356-363
     namalu:
       అతులః, శరభః, భీమః, సమయజ్ఞః, హవిర్హరిః |\n
@@ -1349,29 +1360,29 @@ slokam:
     namam-meanings:
       - namam: అతులః
         number: 357
-        meaning:
+        meaning: భగవంతుడు మాత్రమే గరుడ ధ్వజడు అగుటచే సాటిలేనివాడు
       - namam: శరభః
         number: 358
-        meaning:
+        meaning: కట్టుబాటును మీరిన వాడిని శిక్షించువాడు
       - namam: భీమః
         number: 359
-        meaning:
+        meaning: దుష్ట కార్యములు చేయువాడిని భయపెట్టివాడు
       - namam: సమయజ్ఞః
         number: 360
-        meaning:
+        meaning: సమయమును తెలిసినవాడు భక్తులకు దర్శనమీయడం అభయం ఇవ్వడం సమయానికి ఇచ్చేవాడు
       - namam: హవిర్హరిః
         number: 361
-        meaning:
+        meaning: ఆహుతులను గ్రహించువాడు హరి అంటే చాలు వారి పాపాలు ఆవిరై పోతాయి
       - namam:
       - namam: సర్వలక్షణ లక్షణః
         number: 362
-        meaning:
+        meaning: సమస్త లక్షణములతో కూడి ఉండేవాడు
       - namam: లక్ష్మీవాన్
         number: 363
-        meaning:
+        meaning: సర్వకాలము నందు లక్ష్మితో కూడిపుండువాడు
       - namam: సమితింజయః
         number: 364
-        meaning:
+        meaning: రణమున జయించినవాడు
   s40: #364-373
     namalu:
       విక్షరః, రోహితః, మార్గః, హేతుః, దామోదరః, సహః |\n
@@ -1379,35 +1390,35 @@ slokam:
     namam-meanings:
       - namam: విక్షరః
         number: 365
-        meaning:
+        meaning:  భక్తులపై గల ప్రీతి తగ్గనివాడు
       - namam: రోహితః
         number: 366
-        meaning:
+        meaning: పద్మము యొక్క అంతర్భాగములో ఉండే ఎరుపు కాంతి కలవాడు
       - namam: మార్గః
         number: 367
-        meaning:
+        meaning: తమ ఇష్ట సిద్దికై భక్తుల చేత వెతక దగినవాడు
       - namam: హేతుః
         number: 368
-        meaning:
+        meaning: ఉపాసకుల ఇష్ట సిద్ధికి కారణమైనవాడు
       - namam: దామోదరః
         number: 369
-        meaning:
+        meaning: సర్వలోకములు రుదరమునందు కలవాడు రక్షించువాడు దేవతలకు సుఖమును సూచించువాడు యశోదచే త్రాటితో రోటిని కట్టివేయబడినవాడు
       - namam: సహః
         number: 370
-        meaning:
+        meaning: భక్తుల దోషాలను సహించేవాడు
       - namam:
       - namam: మహీధరః
         number: 371
-        meaning:
+        meaning: భూభారమును తొలగించి ఉద్ధరించినవాడు
       - namam: మహాభాగః
         number: 372
-        meaning:
+        meaning: మహాభాగ్యము కలవాడు 16 వేల గోపికలు అష్టభార్యలు కలవాడు
       - namam: వేగవాన్
         number: 373
-        meaning:
+        meaning: అపరిమితమైన పరమేశ్వర సిద్ధి అను వేగము కలవాడు
       - namam: అమితాశనః
         number: 374
-        meaning:
+        meaning: అపరిమితమైన ఆహారమును తిన్నవాడు
   s41: #374-384
     namalu:
       ఉద్భవః, క్షోభణః, దేవః, శ్రీగర్భః, పరమేశ్వరః |\n
