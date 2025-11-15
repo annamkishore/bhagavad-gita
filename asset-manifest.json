@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bhagavad-gita/static/css/main.1d58125d.css",
-    "main.js": "/bhagavad-gita/static/js/main.d9fa3d39.js",
+    "main.css": "/bhagavad-gita/static/css/main.edcc3cd8.css",
+    "main.js": "/bhagavad-gita/static/js/main.8f0fbd2d.js",
     "static/js/551.694544c2.chunk.js": "/bhagavad-gita/static/js/551.694544c2.chunk.js",
     "static/media/chapter-01-05.mp3": "/bhagavad-gita/static/media/chapter-01-05.97a4de0143c32a9e11cc.mp3",
     "static/media/chapter-06-12.mp3": "/bhagavad-gita/static/media/chapter-06-12.338e437844ae2017dda2.mp3",
@@ -13,12 +13,12 @@
     "static/media/stats.png": "/bhagavad-gita/static/media/stats.783e6882bc6dcd4e8b48.png",
     "static/media/audio-time.yaml": "/bhagavad-gita/static/media/audio-time.889c74cfcd8859ebe042.yaml",
     "index.html": "/bhagavad-gita/index.html",
-    "main.1d58125d.css.map": "/bhagavad-gita/static/css/main.1d58125d.css.map",
-    "main.d9fa3d39.js.map": "/bhagavad-gita/static/js/main.d9fa3d39.js.map",
+    "main.edcc3cd8.css.map": "/bhagavad-gita/static/css/main.edcc3cd8.css.map",
+    "main.8f0fbd2d.js.map": "/bhagavad-gita/static/js/main.8f0fbd2d.js.map",
     "551.694544c2.chunk.js.map": "/bhagavad-gita/static/js/551.694544c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d58125d.css",
-    "static/js/main.d9fa3d39.js"
+    "static/css/main.edcc3cd8.css",
+    "static/js/main.8f0fbd2d.js"
   ]
 }
